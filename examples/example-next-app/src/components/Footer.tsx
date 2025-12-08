@@ -12,7 +12,7 @@ const Footer = () => {
             </div>
             <div className="container-fluid page-border">
 
-                <div typeof="Region" data-region="Footer Links">
+                <div data-region="Footer Links">
                     <div className="row">
                         <div className="col-sm-6 col-md-3">
                             <div data-component-id="tcm:5-333">
